@@ -1,0 +1,249 @@
+print("~"*50)
+print("Wellcome Name That Number!")
+print("~"*50)
+
+
+print("_"*50)
+NumberInput = input("Please Enter your Number:(11 Digits only):\n")
+
+
+if NumberInput[0]=="0":
+    print("A =", NumberInput[0])
+elif NumberInput[0]=="1":
+    print("B=", NumberInput[0])
+elif NumberInput[0]=="2":
+    print("C=", NumberInput[0])
+elif NumberInput[0]=="3":
+    print("D=", NumberInput[0])
+elif NumberInput[0]=="4":
+    print("E=", NumberInput[0])
+elif NumberInput[0]=="5":
+    print("F=", NumberInput[0])
+elif NumberInput[0]=="6":
+    print("G=", NumberInput[0])
+elif NumberInput[0]=="7":
+    print("H=", NumberInput[0])
+elif NumberInput[0]=="8":
+    print("I=", NumberInput[0])
+elif NumberInput[0]=="9":
+    print("J=", NumberInput[0])
+    
+if NumberInput[1]=="0":
+    print("A=", NumberInput[1])
+elif NumberInput[1]=="1":
+    print("B=", NumberInput[1])
+elif NumberInput[1]=="2":
+    print("C=", NumberInput[1])
+elif NumberInput[1]=="3":
+    print("D=", NumberInput[1])
+elif NumberInput[1]=="4":
+    print("E=", NumberInput[1])
+elif NumberInput[1]=="5":
+    print("F=", NumberInput[1])
+elif NumberInput[1]=="6":
+    print("G=", NumberInput[1])
+elif NumberInput[1]=="7":
+    print("H=", NumberInput[1])
+elif NumberInput[1]=="8":
+    print("I=", NumberInput[1])
+elif NumberInput[1]=="9":
+    print("J=", NumberInput[1])
+    
+if NumberInput[2]=="0":
+    print("A=", NumberInput[2])
+elif NumberInput[2]=="1":
+    print("B=", NumberInput[2])
+elif NumberInput[2]=="2":
+    print("C=", NumberInput[2])
+elif NumberInput[2]=="3":
+    print("D=", NumberInput[2])
+elif NumberInput[2]=="4":
+    print("E=", NumberInput[2])
+elif NumberInput[2]=="5":
+    print("F=", NumberInput[2])
+elif NumberInput[2]=="6":
+    print("G=", NumberInput[2])
+elif NumberInput[2]=="7":
+    print("H=", NumberInput[2])
+elif NumberInput[2]=="8":
+    print("I=", NumberInput[2])
+elif NumberInput[2]=="9":
+    print("J=", NumberInput[2])
+
+if NumberInput[3]=="0":
+    print("A=", NumberInput[3])
+elif NumberInput[3]=="1":
+    print("B=", NumberInput[3])
+elif NumberInput[3]=="2":
+    print("C=", NumberInput[3])
+elif NumberInput[3]=="3":
+    print("D=", NumberInput[3])
+elif NumberInput[3]=="4":
+    print("E=", NumberInput[3])
+elif NumberInput[3]=="5":
+    print("F=", NumberInput[3])
+elif NumberInput[3]=="6":
+    print("G=", NumberInput[3])
+elif NumberInput[3]=="7":
+    print("H=", NumberInput[3])
+elif NumberInput[3]=="8":
+    print("I=", NumberInput[3])
+elif NumberInput[3]=="9":
+    print("J=", NumberInput[3])
+    
+if NumberInput[4]=="0":
+    print("A=", NumberInput[4])
+elif NumberInput[4]=="1":
+    print("B=", NumberInput[4])
+elif NumberInput[4]=="2":
+    print("C=", NumberInput[4])
+elif NumberInput[4]=="3":
+    print("D=", NumberInput[4])
+elif NumberInput[4]=="4":
+    print("E=", NumberInput[4])
+elif NumberInput[4]=="5":
+    print("F=", NumberInput[4])
+elif NumberInput[4]=="6":
+    print("G=", NumberInput[4])
+elif NumberInput[4]=="7":
+    print("H=", NumberInput[4])
+elif NumberInput[4]=="8":
+    print("I=", NumberInput[4])
+elif NumberInput[4]=="9":
+    print("J=", NumberInput[4])
+    
+if NumberInput[5]=="0":
+    print("A=", NumberInput[5])
+elif NumberInput[5]=="1":
+    print("B=", NumberInput[5])
+elif NumberInput[5]=="2":
+    print("C=", NumberInput[5])
+elif NumberInput[5]=="3":
+    print("D=", NumberInput[5])
+elif NumberInput[5]=="4":
+    print("E=", NumberInput[5])
+elif NumberInput[5]=="5":
+    print("F=", NumberInput[5])
+elif NumberInput[5]=="6":
+    print("G=", NumberInput[5])
+elif NumberInput[5]=="7":
+    print("H=", NumberInput[5])
+elif NumberInput[5]=="8":
+    print("I=", NumberInput[5])
+elif NumberInput[5]=="9":
+    print("J=", NumberInput[5])
+    
+if NumberInput[6]=="0":
+    print("A=", NumberInput[6])
+elif NumberInput[6]=="1":
+    print("B=", NumberInput[6])
+elif NumberInput[6]=="2":
+    print("C=", NumberInput[6])
+elif NumberInput[6]=="3":
+    print("D=", NumberInput[6])
+elif NumberInput[6]=="4":
+    print("E=", NumberInput[6])
+elif NumberInput[6]=="5":
+    print("F=", NumberInput[6])
+elif NumberInput[6]=="6":
+    print("G=", NumberInput[6])
+elif NumberInput[6]=="7":
+    print("H=", NumberInput[6])
+elif NumberInput[6]=="8":
+    print("I=", NumberInput[6])
+elif NumberInput[6]=="9":
+    print("J=", NumberInput[6])
+    
+if NumberInput[7]=="0":
+    print("A=", NumberInput[7])
+elif NumberInput[7]=="1":
+    print("B=", NumberInput[7])
+elif NumberInput[7]=="2":
+    print("C=", NumberInput[7])
+elif NumberInput[7]=="3":
+    print("D=", NumberInput[7])
+elif NumberInput[7]=="4":
+    print("E=", NumberInput[7])
+elif NumberInput[7]=="5":
+    print("F=", NumberInput[7])
+elif NumberInput[7]=="6":
+    print("G=", NumberInput[7])
+elif NumberInput[7]=="7":
+    print("H=", NumberInput[7])
+elif NumberInput[7]=="8":
+    print("I=", NumberInput[7])
+elif NumberInput[7]=="9":
+    print("J=", NumberInput[7])
+    
+if NumberInput[8]=="0":
+    print("A=", NumberInput[8])
+elif NumberInput[8]=="1":
+    print("B=", NumberInput[8])
+elif NumberInput[8]=="2":
+    print("C=", NumberInput[8])
+elif NumberInput[8]=="3":
+    print("D=", NumberInput[8])
+elif NumberInput[8]=="4":
+    print("E=", NumberInput[8])
+elif NumberInput[8]=="5":
+    print("F=", NumberInput[8])
+elif NumberInput[8]=="6":
+    print("G=", NumberInput[8])
+elif NumberInput[8]=="7":
+    print("H=", NumberInput[8])
+elif NumberInput[8]=="8":
+    print("I=", NumberInput[8])
+elif NumberInput[8]=="9":
+    print("J=", NumberInput[8])
+
+
+if NumberInput[9]=="0":
+    print("A=", NumberInput[9])
+elif NumberInput[9]=="1":
+    print("B=", NumberInput[9])
+elif NumberInput[9]=="2":
+    print("C=", NumberInput[9])
+elif NumberInput[9]=="3":
+    print("D=", NumberInput[9])
+elif NumberInput[9]=="4":
+    print("E=", NumberInput[9])
+elif NumberInput[9]=="5":
+    print("F=", NumberInput[9])
+elif NumberInput[9]=="6":
+    print("G=", NumberInput[9])
+elif NumberInput[9]=="7":
+    print("H=", NumberInput[9])
+elif NumberInput[9]=="8":
+    print("I=", NumberInput[9])
+elif NumberInput[9]=="9":
+    print("J=", NumberInput[9])
+
+
+if NumberInput[10]=="0":
+    print("A=", NumberInput[10])
+elif NumberInput[10]=="1":
+    print("B=", NumberInput[10])
+elif NumberInput[10]=="2":
+    print("C=", NumberInput[10])
+elif NumberInput[10]=="3":
+    print("D=", NumberInput[10])
+elif NumberInput[10]=="4":
+    print("E=", NumberInput[10])
+elif NumberInput[10]=="5":
+    print("F=", NumberInput[10])
+elif NumberInput[10]=="6":
+    print("G=", NumberInput[10])
+elif NumberInput[10]=="7":
+    print("H=", NumberInput[10])
+elif NumberInput[10]=="8":
+    print("I=", NumberInput[10])
+elif NumberInput[10]=="9":
+    print("J=", NumberInput[10])
+
+
+
+
+
+
+
+
